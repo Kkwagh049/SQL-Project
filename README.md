@@ -1,4 +1,4 @@
-# SQL Projects ![icons8-mysql-logo-48](https://github.com/swaapnaa/SQL-PROJECTS/assets/149737403/95180ab6-019c-4ba1-9165-e9449cb95614)
+# SQL Projects ![icons8-mysql-logo-48]https://surl.li/rcdemx
 
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
@@ -115,7 +115,7 @@ SQL (Structured Query Language) is a programming language for interacting with r
 - Stored procedures - reusable routines for logic
 - Window functions - analytics functions for rankings etc.
 
-For these examples, I used Microsoft SQL Server Management Studio.
+For these examples, I used SQL Server for this.
 
 ## Usage
 
