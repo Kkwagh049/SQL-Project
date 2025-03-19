@@ -1,4 +1,4 @@
-# SQL Projects ![icons8-mysql-logo-48]https://surl.li/rcdemx
+# SQL Projects ![icons8-mysql-logo-48](https://surl.li/rcdemx)
 
 
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
